@@ -29,6 +29,6 @@ https://www.linkedin.com/groups/10087746/
 https://pandas.pydata.org/docs/development/community.html#community-slack
 3. Set up your development environment.  
 https://github.com/aram-cedarwood/open-source-contribution-club/blob/main/simplified-setup-instructions-for-pandas.md
-4. Find and work on issues.  
+4. Find and work on issues. (Rule: Take no more than 2 issues at a time!)  
 https://github.com/pandas-dev/pandas/issues
 5. Join work sessions, and share your progress!
