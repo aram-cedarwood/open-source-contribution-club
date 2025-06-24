@@ -10,11 +10,11 @@
 	* [ ] On `https://github.com/pandas-dev/pandas`, hit the `Fork` button on the top right.
 	* [ ] Uncheck the checkbox for "Copy the main branch only."
 	* [ ] Hit `Create Fork`.
-1. On your local machine, install git, if you haven't already.
+1. On your machine, install git, if you haven't already.
 	* [ ] Run `~$ sudo apt install git`.
 	* [ ] If it tells you to set up your Github Personal Access Token, do whatever it tells you to do.
 1. Clone the pandas repo and connect your repository to the upstream pandas repository.
-	* [ ] Run `~$ git clone https://github.com/<your-user-name>/pandas.git` on your local machine. (But change `<your-user-name>` with your user name, obviously.)
+	* [ ] Run `~$ git clone https://github.com/<your-user-name>/pandas.git` on your machine. (But change `<your-user-name>` with your user name, obviously.)
 	* [ ] Run `~$ cd pandas`
 	* [ ] Run `~/pandas$ git remote add upstream https://github.com/pandas-dev/pandas.git`.
 	* [ ] Run `~/pandas$ git fetch upstream`
@@ -31,7 +31,6 @@
 		* [ ] Run `(base) ~/pandas$ mamba clean --all`.
 	* [ ] Run `(base) ~/pandas$ mamba activate pandas-dev`. (Later, we can deactivate with `mamba deactivate`.)
 1. Build C extensions.
-	* [ ] Run `(pandas-dev) ~/pandas$ python setup.py build_ext --inplace -j 4`. `-j` specifies the number of cores for parallelization. If you have trouble, try reducing that number.
 	* [ ] Run `(pandas-dev) ~/pandas$ python -m pip install -ve . --no-build-isolation --config-settings editable-verbose=true`.
 1. To verify that our set-up is successful, see if we can import pandas.
 	* [ ] Run `(pandas-dev) ~/pandas$ python`.
