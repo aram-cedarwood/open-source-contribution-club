@@ -62,6 +62,7 @@
 1. To verify that your set-up is successful, see if you can import pandas.
 	* [ ] Run `(pandas-dev) ~/pandas$ python`.
 	* [ ] Run `>>> import pandas as pd`.
+	* [ ] Run `>>> exit()` to exit.
 1. To verify that your set-up is successful, see if you can run tests.
 	* [ ] Run `(pandas-dev) ~/pandas$ python -m pytest pandas/tests/test_take.py`. (Replace `pandas/tests/test_take.py` with any test file you want to run. You may replace it with `pandas/tests` to run all tests, but keep in mind that will take a very long time to run.)
 
