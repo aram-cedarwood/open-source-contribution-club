@@ -58,7 +58,6 @@
 	* [ ] Run `(base) ~/pandas$ mamba update mamba`.
 	* [ ] Run `(base) ~/pandas$ mamba activate pandas-dev`. (Later, we can deactivate with `mamba deactivate`.)
 1. Build C extensions.
-	* [ ] Run `(pandas-dev) ~/pandas$ python setup.py build_ext --inplace -j 4`. `-j` specifies the number of cores for parallelization. If you have trouble, try reducing that number.
 	* [ ] Run `(pandas-dev) ~/pandas$ python -m pip install -ve . --no-build-isolation --config-settings editable-verbose=true`.
 1. To verify that your set-up is successful, see if you can import pandas.
 	* [ ] Run `(pandas-dev) ~/pandas$ python`.
