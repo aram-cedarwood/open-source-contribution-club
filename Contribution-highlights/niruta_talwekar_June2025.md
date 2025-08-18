@@ -81,4 +81,3 @@ Open source is not just for experts—it’s for anyone willing to **take the le
 So take the step, join OSCC, and be part of a movement where your skills, insights, and passion can truly make a difference.
 
 ---
-
