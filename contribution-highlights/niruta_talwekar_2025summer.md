@@ -1,0 +1,35 @@
+# My Journey with Open Source: Joining OSCC to Make an Impact
+## By [Niruta Talwekar](https://github.com/niruta25)
+
+
+<span style="font-size:2em;">O</span>pen source is everywhere. It powers the libraries we import, the platforms we depend on, and the applications we use every day. At its heart, open source is about building software in public, with contributions from people around the world who collaborate to improve, fix, and extend tools that benefit everyone. Anyone can contribute. Some write code, others fix bugs, improve documentation, or help guide newcomers. The work is transparent, and its impact is immense.
+
+For years, I admired this ecosystem from a distance. I worked with open-source tools every day in my role as a Data Engineer, and I knew the scale of their impact. Pandas, for example, was my constant companion in making sense of massive datasets, streamlining workflows, and driving decisions. But while I used these tools, I often asked myself a question that many professionals quietly wonder: if I rely so much on this work, why am I not contributing back?
+
+The answer was not lack of desire. It was hesitation. The idea of contributing to a project used by millions felt daunting. I worried about where to start, how to set up my environment, which issue to pick, or whether my work would even be good enough to merge. These doubts are not unique. They stop countless technologists at the threshold of contribution.
+
+That hesitation began to shift when I discovered the Open Source Contribution Club (OSCC). It promised something rare: a structured, supportive way to step into open source. I joined out of curiosity, not realizing how much it would reshape my perspective on learning, collaboration, and giving back.
+
+By profession, I am a data-driven leader with more than 13 years of experience designing scalable systems and transforming analytics into AI-powered solutions that fuel innovation and growth. My career has been rooted in solving complex data challenges while bridging technical depth with strategic impact. But my identity is not defined only by work. I am also deeply committed to mentoring, equity in STEM, and creating opportunities for underrepresented voices to thrive. In many ways, open source reflects those same values: inclusion, collaboration, and building something bigger than yourself.
+
+<span style="font-size:2em;">W</span>hen I joined OSCC, I found that it tackled one of the biggest barriers in open source: getting started. For many newcomers, environment setup alone can be discouraging. You clone a repository, install dependencies, and suddenly face a wall of errors. It is often the stage where enthusiasm fades and people give up. OSCC recognized this pain point. Within a single day of guided sessions, I had my setup ready and working. That small victory freed me to focus on what really matters: solving problems, learning from others, and contributing meaningfully.
+
+My first contributions were modest, and that was by design. I updated documentation, cleaned up bugs, and familiarized myself with the workflow of submitting pull requests. OSCC gave us direct access to Pandas maintainers, which meant our questions reached the people who built the code. This direct feedback accelerated learning and made contributions more impactful.
+
+One experience stands out. I once picked an issue in Pandas that had been open for years. I spent hours working through possible fixes, only to encounter new test failures every time. It was frustrating, and I questioned whether I had made a mistake in choosing it. During an OSCC session, a mentor explained why the issue had remained unresolved as it was far more complex than it appeared. Their advice was simple but transformative: start with newer issues that have active discussions. The learning moment was not about failing to fix that bug, but about understanding how to navigate the ecosystem more wisely. That guidance saved me time and energy, and more importantly, it kept me motivated to continue.
+
+<span style="font-size:2em;">T</span>he beauty of OSCC was not just in solving technical challenges, but in building community. Every week, we gathered contributors from across the globe. Someone would raise a blocker they faced, and by solving it together, many others would benefit. This shared journey created a sense of camaraderie that is often missing in individual technical work. Seeing pull requests merge was rewarding, but so was celebrating others’ progress, knowing that we were learning side by side.
+
+The value of OSCC also evolves with your career stage. For early-career technologists, it is a launchpad. It gives you practical skills, builds confidence, and connects you with mentors who can guide your growth. When you solve an issue, you prove to yourself that you can add value to a project that serves millions. That realization can change the trajectory of your career.
+
+For mid-career professionals, OSCC is about visibility and influence. It helps you expand your network, sharpen your skills, and demonstrate expertise in front of a global audience. Contributing to widely used tools showcases not just your technical ability but also your willingness to engage with the broader ecosystem. It can open doors to collaborations and opportunities beyond your immediate workplace.
+
+For senior technologists, the rewards take yet another form. With years of knowledge and perspective, contributing to open source becomes a way to give back, mentor others, and shape the direction of projects that matter. Your influence extends beyond code but you set standards, guide contributions, and help ensure the sustainability of projects. Programs like OSCC make it possible to do this in a balanced way, even alongside demanding professional and personal priorities.
+
+<span style="font-size:2em;">I</span>f you are wondering how to begin, the path is simpler than it seems. Another contribution run by OSCC is in the works, details TBA. To stay informed, **please fill out [this form](https://forms.gle/L5z9ncVBHTvrefKr9).** Please join the club!
+
+My journey with OSCC reminded me that impact is not measured by how complex your first contribution is, but by your willingness to participate. From my first merged pull request to the friendships and mentorships I gained, every step reinforced the same lesson: open source is for everyone willing to learn, share, and build together.
+
+When I think back to the doubts that once held me back, I realize they were misplaced. Contribution is not about being perfect. It is about showing up, engaging, and trusting that your effort matters. Whether you are at the beginning of your career or decades into it, there is a place for you in open source. For me, OSCC was the bridge that turned intention into action, and action into impact. I encourage anyone reading this to take the leap. Explore a project you love, join a supportive community, and make your mark.
+
+The open-source world is waiting for your voice, your skills, and your passion. All it takes is one step forward.
